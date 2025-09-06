@@ -1,0 +1,16 @@
+{
+  "name": "A4 Doodler & AI Image Generator",
+  "short_name": "Doodler App",
+  "description": "AI drawing and image generation tool.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#A4C7B8",
+  "icons": [
+    {
+      "src": "/icons/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
