@@ -72,3 +72,13 @@ This application was proudly developed by **Nawid Hussasin**.
 
 -   **GitHub**: [@11nawid](https://github.com/11nawid)
 -   Feel free to check out my other projects!
+
+## 📩 Contact & Collaboration
+
+Got an idea for a project or need a custom web tool built?  
+I work with **HTML, CSS, JavaScript, PHP, modern libraries, and frameworks like Next.js** to bring your ideas to life.  
+
+- 💌 Email: [afnawidafnawid@gmail.com](mailto:afnawidafnawid@gmail.com)  
+- 📸 Instagram: [@11.nawid](https://instagram.com/11.nawid)  
+
+Feel free to DM me or send an email for collaborations, freelance work, or new project ideas!
