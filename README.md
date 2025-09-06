@@ -24,7 +24,7 @@ This project is built with a modern, robust, and scalable tech stack:
 -   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 -   **UI Components**: [ShadCN UI](https://ui.shadcn.com/)
 -   **AI Image Generation**: Powered by [Pollinations.ai](https://pollinations.ai/)
--   **Development Environment**: Firebase Studio
+-   **Development Environment**: Visual Studio
 
 ## 🚀 Getting Started
 
@@ -38,11 +38,11 @@ You need to have [Node.js](https://nodejs.org/) (version 18 or later) and npm in
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/11nawid/a4-doodler-ai-image-generator.git
     ```
 2.  Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd a4-doodler-ai-image-generator.git
     ```
 3.  Install NPM packages:
     ```sh
