@@ -1,84 +1,112 @@
-# A4 Doodler & AI Image Generator
+# 🎨 A4 Doodler & AI Image Generator
 
-![Doodler App Banner](https://placehold.co/1200x600/A4C7B8/242938?text=Doodler+App)
+![Doodler App Banner](https://ik.imagekit.io/ugyvnxndl/others/screenshot.png?updatedAt=1757181993691)
 
-A creative playground for turning photos into art and imagination into images, built with Next.js and Firebase Studio. This progressive web app (PWA) offers two powerful creative tools in one sleek, modern package.
+A4 Doodler & AI Image Generator is a **creative playground** for turning **photos into art** and **imagination into AI-generated images**.  
+Built with **Next.js** and **modern web technologies**, this progressive web app (PWA) combines two powerful tools in a sleek and intuitive package.
 
-## ✨ Key Features
+---
 
--   **🎨 A4 Doodler**: Transform any photo into a mesmerizing piece of line art. Upload your image, adjust settings like pen size and speed, and watch as the app intelligently doodles a unique artistic interpretation on a virtual A4 canvas. You can even enable "Partner Drawing" for a multi-colored collaborative effect!
+## 🚧 Project Status
 
--   **🤖 AI Image Generator**: Unleash your imagination with the power of text-to-image AI. Simply describe the image you want to create—from photorealistic portraits to fantastical landscapes—and our AI will bring your vision to life in stunning detail.
+This is a **small project** created as a starting point — **more unique projects are coming soon!** 🚀  
+Stay tuned for upcoming apps, experiments, and creative tools.
 
--   **🚀 Progressive Web App (PWA)**: Install the app directly on your desktop or mobile device for a fast, reliable, and engaging native-app experience, complete with a splash screen and offline accessibility.
+---
 
--   **📱 Fully Responsive**: A seamless experience whether you're on a desktop computer, tablet, or smartphone.
+---
 
--   **📥 Multiple Download Formats**: Download your creations from the A4 Doodler as SVG, PNG, or PDF files to share, print, or edit further.
+## ✨ Features
 
-## 🛠️ Technology Stack
+- **🖋️ A4 Doodler**  
+  Transform any photo into unique line art. Upload an image, adjust pen size and speed, and watch as the algorithm sketches a mesmerizing A4 canvas.  
+  Includes *Partner Drawing mode* for colorful, collaborative doodles!
 
-This project is built with a modern, robust, and scalable tech stack:
+- **🤖 AI Image Generator**  
+  Generate stunning images from text prompts. From photorealistic portraits to fantasy landscapes—your imagination sets the limit.
 
--   **Framework**: [Next.js](https://nextjs.org/) (with React)
--   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
--   **UI Components**: [ShadCN UI](https://ui.shadcn.com/)
--   **AI Image Generation**: Powered by [Pollinations.ai](https://pollinations.ai/)
--   **Development Environment**: Visual Studio
+- **🚀 Progressive Web App (PWA)**  
+  Install it directly on desktop or mobile with offline support, native splash screen, and a fast, reliable experience.
+
+- **📱 Fully Responsive**  
+  Optimized for desktop, tablet, and mobile devices.
+
+- **📥 Multiple Export Formats**  
+  Save your doodles as **SVG, PNG, or PDF** for sharing, printing, or editing.
+
+---
+
+## 🛠️ Tech Stack
+
+This project is built with a modern and scalable stack:
+
+- **Framework**: [Next.js](https://nextjs.org/) (with React)  
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
+- **UI Components**: [ShadCN UI](https://ui.shadcn.com/)  
+- **AI Generation**: [Pollinations.ai](https://pollinations.ai/)  
+- **Deployment & Hosting**: Cloud-based platforms (e.g., Vercel / Netlify)  
+- **Development**: Visual Studio Code  
+
+---
 
 ## 🚀 Getting Started
 
-To get a local copy up and running, follow these simple steps.
-
 ### Prerequisites
+- [Node.js](https://nodejs.org/) v18+  
+- npm (comes with Node.js)
 
-You need to have [Node.js](https://nodejs.org/) (version 18 or later) and npm installed on your machine.
+### Installation
 
-### Installation & Running Locally
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/11nawid/a4-doodler-ai-image-generator.git
+   ```
 
-1.  Clone the repository:
-    ```sh
-    git clone https://github.com/11nawid/a4-doodler-ai-image-generator.git
-    ```
-2.  Navigate to the project directory:
-    ```sh
-    cd a4-doodler-ai-image-generator.git
-    ```
-3.  Install NPM packages:
-    ```sh
-    npm install
-    ```
-4.  Run the development server:
-    ```sh
-    npm run dev
-    ```
+2. Navigate to the project:
+   ```sh
+   cd a4-doodler-ai-image-generator
+   ```
 
-Open [http://localhost:9002](http://localhost:9002) with your browser to see the result.
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
 
-## 📜 License & Usage
+4. Run the development server:
+   ```sh
+   npm run dev
+   ```
 
-This project is open for personal and commercial use. You are free to download, modify, and even publish your own versions of this application.
+Now open **[http://localhost:9002](http://localhost:9002)** in your browser.
 
-However, you must retain the original developer attribution to **Nawid Hussasin**. Please do not remove or change the credits in the "About" page or within the code.
+---
 
-## ✨ Attributions
+## 📜 License
 
--   The **A4 Doodler** feature is powered by a custom client-side image processing algorithm that runs entirely in your browser.
--   The **AI Image Generator** is powered by the free and open-source [Pollinations.ai](https://pollinations.ai/) service.
+This project is free for **personal and commercial use**.  
+You may fork, modify, and publish your own versions, **but attribution to the original developer is required**:
+
+**Developed by Nawid Hussasin**
+
+---
+
+## 🙌 Attributions
+
+- **A4 Doodler** uses a custom, client-side image processing algorithm that runs entirely in your browser.  
+- **AI Image Generator** is powered by the open-source service [Pollinations.ai](https://pollinations.ai/).
+
+---
 
 ## 👤 About the Developer
 
-This application was proudly developed by **Nawid Hussasin**.
+This project was crafted with passion by **Nawid Hussasin**.  
 
--   **GitHub**: [@11nawid](https://github.com/11nawid)
--   Feel free to check out my other projects!
+- **GitHub**: [@11nawid](https://github.com/11nawid)  
+- **Instagram**: [@11.nawid](https://instagram.com/11.nawid)  
+- **Email**: [afnawidafnawid@gmail.com](mailto:afnawidafnawid@gmail.com)  
 
-## 📩 Contact & Collaboration
+💡 Open to collaborations, freelance work, and creative web projects!  
 
-Got an idea for a project or need a custom web tool built?  
-I work with **HTML, CSS, JavaScript, PHP, modern libraries, and frameworks like Next.js** to bring your ideas to life.  
+---
 
-- 💌 Email: [afnawidafnawid@gmail.com](mailto:afnawidafnawid@gmail.com)  
-- 📸 Instagram: [@11.nawid](https://instagram.com/11.nawid)  
 
-Feel free to DM me or send an email for collaborations, freelance work, or new project ideas!
